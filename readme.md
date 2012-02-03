@@ -4,5 +4,5 @@ Currently this does not work. However, there are a few barcodes to get you start
 
 Requirements
 ============
-PHP >= 5
-PEAR Image_Barcode2
+*PHP >= 5
+*PEAR Image_Barcode2
